@@ -1,0 +1,3 @@
+/cotent/darknet/data/strawberry/000011.jpg
+/cotent/darknet/data/strawberry/000106.jpg
+/cotent/darknet/data/strawberry/000386.jpg
