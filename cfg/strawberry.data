@@ -1,5 +1,0 @@
-classes= 1
-train  = cfg/strawberry-train.txt
-valid  = cfg/strawberry-test.txt
-names = data/strawberry.names
-backup = backup
