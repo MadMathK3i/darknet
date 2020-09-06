@@ -34,3 +34,9 @@
 /content/darknet/data/ichigo/000493.jpg
 /content/darknet/data/ichigo/000504.jpg
 /content/darknet/data/ichigo/000506.jpg
+/content/darknet/data/ichigo/000507.jpg
+/content/darknet/data/ichigo/000508.jpg
+/content/darknet/data/ichigo/000509.jpg
+/content/darknet/data/ichigo/000510.jpg
+/content/darknet/data/ichigo/000511.jpg
+/content/darknet/data/ichigo/000512.jpg
